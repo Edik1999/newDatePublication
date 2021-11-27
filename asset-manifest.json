@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/new_date_publication/static/css/main.79e408fe.chunk.css",
-    "main.js": "/new_date_publication/static/js/main.aa2fecbc.chunk.js",
-    "main.js.map": "/new_date_publication/static/js/main.aa2fecbc.chunk.js.map",
-    "runtime-main.js": "/new_date_publication/static/js/runtime-main.8ecb8289.js",
-    "runtime-main.js.map": "/new_date_publication/static/js/runtime-main.8ecb8289.js.map",
-    "static/js/2.e01f30db.chunk.js": "/new_date_publication/static/js/2.e01f30db.chunk.js",
-    "static/js/2.e01f30db.chunk.js.map": "/new_date_publication/static/js/2.e01f30db.chunk.js.map",
-    "static/js/3.e8a303f9.chunk.js": "/new_date_publication/static/js/3.e8a303f9.chunk.js",
-    "static/js/3.e8a303f9.chunk.js.map": "/new_date_publication/static/js/3.e8a303f9.chunk.js.map",
-    "index.html": "/new_date_publication/index.html",
-    "static/css/main.79e408fe.chunk.css.map": "/new_date_publication/static/css/main.79e408fe.chunk.css.map",
-    "static/js/2.e01f30db.chunk.js.LICENSE.txt": "/new_date_publication/static/js/2.e01f30db.chunk.js.LICENSE.txt"
+    "main.css": "/newDatePublication/static/css/main.79e408fe.chunk.css",
+    "main.js": "/newDatePublication/static/js/main.aa2fecbc.chunk.js",
+    "main.js.map": "/newDatePublication/static/js/main.aa2fecbc.chunk.js.map",
+    "runtime-main.js": "/newDatePublication/static/js/runtime-main.0dbafadb.js",
+    "runtime-main.js.map": "/newDatePublication/static/js/runtime-main.0dbafadb.js.map",
+    "static/js/2.e01f30db.chunk.js": "/newDatePublication/static/js/2.e01f30db.chunk.js",
+    "static/js/2.e01f30db.chunk.js.map": "/newDatePublication/static/js/2.e01f30db.chunk.js.map",
+    "static/js/3.e8a303f9.chunk.js": "/newDatePublication/static/js/3.e8a303f9.chunk.js",
+    "static/js/3.e8a303f9.chunk.js.map": "/newDatePublication/static/js/3.e8a303f9.chunk.js.map",
+    "index.html": "/newDatePublication/index.html",
+    "static/css/main.79e408fe.chunk.css.map": "/newDatePublication/static/css/main.79e408fe.chunk.css.map",
+    "static/js/2.e01f30db.chunk.js.LICENSE.txt": "/newDatePublication/static/js/2.e01f30db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ecb8289.js",
+    "static/js/runtime-main.0dbafadb.js",
     "static/js/2.e01f30db.chunk.js",
     "static/css/main.79e408fe.chunk.css",
     "static/js/main.aa2fecbc.chunk.js"
